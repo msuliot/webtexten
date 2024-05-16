@@ -11,7 +11,7 @@ from urllib.parse import urljoin, urlparse
 import random
 import time
 
-log_filename = 'webify.log'
+log_filename = 'web.log'
 logging.basicConfig(filename=log_filename,
                     filemode='a',
                     level=logging.INFO,
