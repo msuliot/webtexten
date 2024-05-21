@@ -1,6 +1,6 @@
 # WEBTEXTEN - Web Text Extraction Node
 
-## WEBTEXTEN is a versatile web text extraction application designed to crawl websites, extract textual content from web pages and PDFs, and save the extracted content into organized text files. This tool is ideal for web scraping tasks where large volumes of web data need to be processed and stored efficiently.
+WEBTEXTEN is a versatile web text extraction application designed to crawl websites, extract textual content from web pages and PDFs, and save the extracted content into organized text files. This tool is ideal for web scraping tasks where large volumes of web data need to be processed and stored efficiently.
 
 Key Features
 - Web Crawling: Traverses web pages starting from a given URL, following links within the same domain to gather content comprehensively.
