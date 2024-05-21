@@ -177,6 +177,6 @@ def main(url):
 
 if __name__ == "__main__":
     print("\nProcess started:", end=" ")
-    url ='https://themarkt.com/'
+    url ='https://mygreatdomain.com/'
     main(url)
     print("Webtexten process complete. Check logs for details.")
